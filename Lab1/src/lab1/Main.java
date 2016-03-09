@@ -106,4 +106,9 @@ public class Main {
 		System.out.println("The total cost of your order is: "
 				+ df.format(order.cost()));
 	}
+	
+
+	/**
+	 * This is a test.
+	 */
 }
